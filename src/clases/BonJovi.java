@@ -4,7 +4,7 @@ package clases;
 import Ckases.Listdisc;
 import Formularios.Rockola;
 import javax.swing.JOptionPane;
-
+// **Author Felipe Reyes { Nekosor }**
 public class BonJovi extends Listdisc{
 
     public BonJovi(int Moneda, int Artista, int Album, int Cancion) {
