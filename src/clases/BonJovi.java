@@ -5,6 +5,9 @@ import Ckases.Listdisc;
 import Formularios.Rockola;
 import javax.swing.JOptionPane;
 // **Author Felipe Reyes { Nekosor }**
+// **Colb Jean Añorga { Pandita }**
+// **Colb Adrian Nieves { DIO }**
+
 public class BonJovi extends Listdisc{
 
     public BonJovi(int Moneda, int Artista, int Album, int Cancion) {
